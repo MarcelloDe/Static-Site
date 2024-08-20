@@ -1,7 +1,7 @@
 ---
 layout: 
-title: "Take Charge of Adult ADHD "
-subtitle: "Book Summary"
+title: 
+subtitle: 
 date: 
 ---
 
