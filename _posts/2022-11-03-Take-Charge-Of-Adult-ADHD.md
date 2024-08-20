@@ -1,8 +1,8 @@
 ---
-layout: 
-title: 
-subtitle: 
-date: 
+#layout: post
+#title: "Take Charge of Adult ADHD "
+#subtitle: "Book Summary"
+#date: 2022-10-13 12:42
 ---
 
 <h1>Taking Charge of Adult ADHD by Russel Barkley and Christine M. Benton (2010)</h1>
